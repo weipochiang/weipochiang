@@ -1,6 +1,10 @@
 
-### 🔭 I’m currently working on HOAKI PLAY LLC
+### 大家好
 
+### 經歷　鈊象電子
+### 經歷　ＨＯＡＫＩ　ＰＬＡＹ　ＬＬＣ
+### 學歷　台灣科技大學ＥＭＢＡ
+### mail: 414370079@cloud.fju.edu.tw
 <!--
 **weipochiang/weipochiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Mail address: weichiang@hoakiplay.com 
-🔭 I’m currently working on HOAKI PLAY LLC
-
